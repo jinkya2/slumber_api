@@ -1,0 +1,4 @@
+# Elephant Postgres Confgiurations
+
+elephant_sql_url=postgres://dbName:xxxhashxxxx@tai.db.elephantsql.com/dbName
+PORT=5000

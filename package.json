@@ -1,0 +1,23 @@
+{
+  "name": "@paypalcorp/server",
+  "version": "1.0.0",
+  "description": "Thr tracker app API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ajinkya Narwade",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "pg": "^8.7.1"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0"
+  },
+  "engines": {
+    "node": "16.x"
+  }
+}
